@@ -5,6 +5,6 @@ let annualExpenses = 0
 window.prompt(weeklyExpensesQuestions[0])
 console.log(answer)
 
-let StringAnswer = window.prompt(weeklyExpensesQuestions[0])
+let stringAnswer = window.prompt(weeklyExpensesQuestions[0])
 let numberAnswer = parseFloat(stringanswer)
 console.log(numberAnswer)
